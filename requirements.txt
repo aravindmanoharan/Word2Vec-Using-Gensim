@@ -1,0 +1,10 @@
+gensim
+pandas
+nltk
+sklearn
+matplotlib
+seaborn
+tqdm
+itertools
+
+
