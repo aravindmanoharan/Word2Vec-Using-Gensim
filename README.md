@@ -8,7 +8,7 @@ After training the Word2Vec model, we will use t-Distributed Stochastic Neighbor
 
 ## Dataset
 
-Here, the Word2Vec model is trained on the Game of thrones corpora which consists of five books of Game of Thrones. Each corpus has been preprocessed to extract only the tokens and removed all the stopwords. 
+Here, the Word2Vec model is trained on the Game of thrones corpora which consist of five books of Game of Thrones. Each corpus has been preprocessed to extract only the tokens and removed all the stopwords. 
 
 ## Requirements
 
